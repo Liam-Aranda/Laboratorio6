@@ -1,5 +1,14 @@
-.txtG {
-	font-size: 70px;
+body{
+		font-family: 'Chakra Petch', sans-serif;
+}
+
+header{
+	background-color:#122C34;
+	background-position: center;
+	height: 20%;
+	padding: 20px;
+	text-align: center;
+	color:#44cfcb;
 }
 
 nav ul{
@@ -11,4 +20,31 @@ nav ul{
 nav li{
 	display: inline-block;
 	margin-right: 20px;
+}
+ .fondo1 {
+	 background-color:#122C34;
+ }
+  .fondo2 {
+	 background-color:#c297b8;
+ }
+  .fondo3 {
+	 background-color:#44CFCB;
+ }
+
+ .txtG {
+	font-size: 70px;
+	text-align:center;
+	font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.justify {
+  text-align:justify;
+  margin-left:10%;
+  margin-right:10%;
 }
