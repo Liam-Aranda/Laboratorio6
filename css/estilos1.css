@@ -1,0 +1,14 @@
+.txtG {
+	font-size: 70px;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+nav li{
+	display: inline-block;
+	margin-right: 20px;
+}
